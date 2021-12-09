@@ -1,4 +1,4 @@
 # aiden_d.github.io
-## My Profile Hello Wolrd
+## My Profile Hello World
 
 <a href="http://aidenflowers.github.io/Exercise_Repo__9.2">Dog Exercise</a>
